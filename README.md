@@ -52,4 +52,4 @@
 ## Контакты
 
 * [![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)]([https://t.me/xBlizD](https://t.me/brockmanj))
-* [![Static Badge](https://img.shields.io/badge/Email-ayanushak@inbox.ru-blue?style=for-the-badge&logo=gmail)](mailto:ayanushak@inbox.ru)
+* [![Static Badge](https://img.shields.io/badge/Email-ayanushak@inbox.ru-blue)](mailto:ayanushak@inbox.ru)
