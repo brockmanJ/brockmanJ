@@ -1,4 +1,9 @@
-# Янущак Андрей | Программист 1С
+﻿<p><img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=WELCOME&textBg=false&fontColor=2F4F4F&fontSize=70&animation=twinkling&desc=TO%20MY%20PROFILE"/></p>
+
+<h2 align="left">Янущак Андрей - программист 1С</h2>
+
+[![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)]([https://t.me/xBlizD](https://t.me/brockmanj))
+[![Static Badge](https://img.shields.io/badge/Email-ayanushak@inbox.ru-blue)](mailto:ayanushak@inbox.ru)
 
 ## О себе
 
@@ -49,7 +54,3 @@
 * **Программирование в типовых решениях 1С**
 * **Настройка отчетов без программирования**
 
-## Контакты
-
-* [![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)]([https://t.me/xBlizD](https://t.me/brockmanj))
-* [![Static Badge](https://img.shields.io/badge/Email-ayanushak@inbox.ru-blue)](mailto:ayanushak@inbox.ru)
