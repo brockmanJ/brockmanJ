@@ -2,7 +2,7 @@
 
 <h2 align="left">Янущак Андрей - программист 1С</h2>
 
-[![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)]([https://t.me/xBlizD](https://t.me/brockmanj))
+[![Static Badge](https://img.shields.io/badge/Telegram-channel-blue)](https://t.me/brockmanj)
 [![Static Badge](https://img.shields.io/badge/Email-ayanushak@inbox.ru-blue)](mailto:ayanushak@inbox.ru)
 
 ## 📊 О себе
